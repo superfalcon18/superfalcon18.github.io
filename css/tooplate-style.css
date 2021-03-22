@@ -52,7 +52,7 @@ footer a:link, footer a:visited {
 }
 
 .tm-navbar-menu:hover {
-  color: #950000;
+  color: rgb(255, 112, 29);
   text-decoration: none;
 }
 
@@ -79,7 +79,7 @@ footer a:link, footer a:visited {
 .tm-nav-link:hover,
 .tm-nav-link:focus {
   text-decoration: none;
-  color: #950000;
+  color: rgb(255, 112, 29);
 }
 
 .tm-bg-dark {
